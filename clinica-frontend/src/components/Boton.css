@@ -1,0 +1,5 @@
+.boton { border: 0; border-radius: 8px; padding: 8px 16px; font-weight: 600; cursor: pointer; }
+.boton:disabled { opacity: .45; cursor: not-allowed; }
+.boton-primario { background: #0b5e50; color: #fff; }
+.boton-secundario { background: #e6f0eb; color: #0b5e50; }
+.boton-peligro { background: #c0392b; color: #fff; }

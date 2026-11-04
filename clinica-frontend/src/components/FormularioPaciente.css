@@ -1,0 +1,6 @@
+.form-paciente { display: flex; flex-direction: column; gap: 12px; max-width: 460px; }
+.form-paciente label { display: flex; flex-direction: column; gap: 4px; font-weight: 600; font-size: 14px; }
+.form-paciente input { padding: 9px 10px; border: 1px solid #c9d8d1; border-radius: 8px; font-size: 15px; }
+.form-paciente .error { color: #b3261e; font-weight: 400; font-size: 13px; }
+.form-ok { background: #e4f3ea; color: #14532d; border: 1px solid #9ad3b3; border-radius: 8px; padding: 10px 12px; }
+.form-ok.form-error { background: #fdeaea; color: #b3261e; border-color: #f2b8b5; }

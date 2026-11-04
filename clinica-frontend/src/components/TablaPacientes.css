@@ -1,0 +1,4 @@
+.tabla-wrap { overflow-x: auto; }
+.tabla { width: 100%; border-collapse: collapse; background: #fff; }
+.tabla th, .tabla td { border: 1px solid #dfe8e3; padding: 9px 10px; text-align: left; font-size: 14px; }
+.tabla th { background: #eef5f1; }

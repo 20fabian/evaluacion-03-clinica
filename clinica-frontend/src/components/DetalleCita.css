@@ -1,0 +1,6 @@
+.detalle-cita { border: 1px solid #dfe8e3; border-radius: 10px; padding: 16px; background: #fff; }
+.detalle-cita dl { display: grid; grid-template-columns: 130px 1fr; gap: 6px 12px; }
+.detalle-cita dt { font-weight: 700; font-size: 14px; }
+.detalle-cita dd { margin: 0; font-size: 14px; }
+.detalle-acciones { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 12px; }
+.nota-final { font-size: 13px; color: #68776f; }

@@ -1,0 +1,2 @@
+.buscador { display: flex; gap: 10px; margin: 12px 0; }
+.buscador input { flex: 1; max-width: 380px; padding: 9px 12px; border: 1px solid #c9d8d1; border-radius: 8px; font-size: 15px; }

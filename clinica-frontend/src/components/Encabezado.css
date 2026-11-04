@@ -1,0 +1,6 @@
+.encabezado { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 16px 24px; background: #0b5e50; color: #fff; }
+.encabezado-marca { display: flex; align-items: center; gap: 12px; }
+.encabezado-logo { display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: #fff; color: #0b5e50; font-size: 28px; font-weight: 700; }
+.encabezado h1 { font-size: 22px; margin: 0; }
+.encabezado p { margin: 2px 0 0; opacity: .85; }
+.encabezado-meta { display: flex; flex-direction: column; text-align: right; font-size: 14px; }
